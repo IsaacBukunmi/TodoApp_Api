@@ -15,7 +15,7 @@ A simple to-do list application with Django using the API approach.
   
 2. Steps to access the site admin
   - place the ip address:  http://127.0.0.1:8000/admin on the browser to access the admin site
-  - Use 'isaac' as username and 'walice' as password
+  - Use 'isaac' as username and 'todoappapi' as password
   - from the admin you can access the model
   
 3. Steps to access the api 
